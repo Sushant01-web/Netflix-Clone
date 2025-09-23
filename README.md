@@ -1,5 +1,5 @@
 # Netflix-Clone
-A sleek, responsive Netflix UI built purely with HTML &amp; CSS — a static front-end mockup that showcases layout, typography, and interactions inspired by streaming platforms.
+A sleek, responsive Netflix UI built purely with HTML & CSS — a static front-end mockup that showcases layout, typography, and interactions inspired by streaming platforms.
 
 
 𝐓𝐞𝐜𝐡 & 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧
@@ -24,5 +24,12 @@ Design variables (CSS custom properties) for easy theming
 Accessible, semantic markup (nav, main, header, section, footer)
 
 𝐇𝐨𝐰 𝐭𝐨 𝐮𝐬𝐞
-Clone or download the repository.
+Clone
+https://sushant01-web.github.io/Netflix-Clone/
+
+Download the respository
+Open index.html in your browser.
+Customize posters, titles, and CSS variables to make it your own.
+
+
 
